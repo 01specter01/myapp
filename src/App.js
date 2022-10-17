@@ -10,6 +10,13 @@ function App() {
                     Edit <code>src/App.js</code> and save to reload.
                 </p>
                 <p>Hello React!</p>
+                <aside>Hello and</aside>
+                <div>lorem ipsum</div>
+                <label>
+                    <br></br>
+                    Number:
+                    <input type="number"></input>
+                </label>
 
                 <a
                     className="App-link"
